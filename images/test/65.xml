@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>65.jpeg</filename>
+	<path>/home/jihoon/Desktop/pororo_detection/data/65.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>193</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pororo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>20</ymin>
+			<xmax>165</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

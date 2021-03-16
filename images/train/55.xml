@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>55.jpeg</filename>
+	<path>/home/jihoon/Desktop/pororo_detection/data/55.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>265</width>
+		<height>190</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Loopy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>10</ymin>
+			<xmax>175</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
